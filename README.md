@@ -1,0 +1,1 @@
+# Equations-for-Dynamic-Analysis-of-a-Multi-machine-Power-System-by-Simplification-to-SMIB-Models
